@@ -1,6 +1,6 @@
 # PocketKeep — Privacy Policy
 
-**Last updated: 16 October 2026**
+**Last updated: 18 October 2026**
 
 ## The short version
 
@@ -8,10 +8,9 @@ Your financial data — transactions, balances, wallets, accounts, notes and rec
 
 PocketKeep has no ads, no analytics and no advertising ID.
 
-The app does connect to the internet for a few limited purposes, none of which involve your financial data:
+The app does connect to the internet for two limited purposes, none of which involve your financial data:
 
 - checking and managing your subscription (Google Play and RevenueCat);
-- downloading the app's font from Google Fonts the first time it is needed;
 - showing Google Play's "rate this app" dialog (at most once).
 
 Separately, Android's own backup feature may copy app data to your Google account if you have it turned on. Details are below.
@@ -38,9 +37,6 @@ RevenueCat does **not** receive any of your transactions, balances, wallets or o
 
 Google's handling of purchases is covered by Google's privacy policy: https://policies.google.com/privacy
 
-### Fonts (Google Fonts)
-
-PocketKeep uses the Poppins typeface. The first time the app needs it, it may download the font file from Google Fonts servers and keep it on your device afterwards. Like any web request, this exposes your IP address and basic device information to Google. No personal or financial data is sent. See: https://developers.google.com/fonts/faq/privacy
 
 ### Rating prompt (Google Play)
 
@@ -56,7 +52,7 @@ This backup is created, encrypted and stored by Android and Google, not by Pocke
 
 | Permission | Why | Sends data off your device? |
 | --- | --- | --- |
-| Internet, network state | Subscription status and purchases, font download, rating dialog (see above). | Only as described above — never your financial data |
+| Internet, network state | Subscription status and purchases, rating dialog (see above). | Only as described above — never your financial data |
 | Google Play Billing | Buying and restoring a subscription. | Purchase details, handled by Google Play |
 | Notifications | Reminders for recurring transactions and the optional daily logging reminder. Asked only when you turn a reminder on. | No |
 | Exact alarms, run at startup, vibration | Delivering reminders at the right time and keeping them scheduled after your phone restarts. | No |
@@ -105,7 +101,7 @@ Questions about privacy, or anything else:
 
 # PocketKeep — سياسة الخصوصية
 
-**آخر تحديث: 16 أكتوبر 2026**
+**آخر تحديث: 18 أكتوبر 2026**
 
 ## باختصار
 
@@ -116,7 +112,6 @@ Questions about privacy, or anything else:
 يتصل التطبيق بالإنترنت لأغراض محدودة، لا يتضمن أيٌّ منها بياناتك المالية:
 
 - التحقق من اشتراكك وإدارته (Google Play وRevenueCat)؛
-- تنزيل خط التطبيق من Google Fonts عند الحاجة إليه أول مرة؛
 - عرض نافذة "قيّم التطبيق" من Google Play (مرة واحدة على الأكثر).
 
 وبشكل منفصل، قد تنسخ ميزة النسخ الاحتياطي في أندرويد نفسه بيانات التطبيق إلى حسابك في Google إن كانت مفعّلة لديك. التفاصيل أدناه.
@@ -143,9 +138,6 @@ Questions about privacy, or anything else:
 
 وتخضع معالجة Google لعمليات الشراء لسياسة خصوصية Google: https://policies.google.com/privacy
 
-### الخطوط (Google Fonts)
-
-يستخدم PocketKeep خط Poppins. في المرة الأولى التي يحتاجه فيها التطبيق، قد ينزّل ملف الخط من خوادم Google Fonts ثم يحتفظ به على جهازك. وككل طلب عبر الإنترنت، يكشف ذلك عنوان IP ومعلومات أساسية عن الجهاز لشركة Google. لا تُرسل أي بيانات شخصية أو مالية. للمزيد: https://developers.google.com/fonts/faq/privacy
 
 ### طلب التقييم (Google Play)
 
@@ -161,7 +153,7 @@ Questions about privacy, or anything else:
 
 | الإذن | السبب | هل تُرسل بيانات خارج جهازك؟ |
 | --- | --- | --- |
-| الإنترنت وحالة الشبكة | حالة الاشتراك والشراء، وتنزيل الخط، ونافذة التقييم (انظر أعلاه). | فقط كما هو موضّح أعلاه — وليس بياناتك المالية أبداً |
+| الإنترنت وحالة الشبكة | حالة الاشتراك والشراء، ونافذة التقييم (انظر أعلاه). | فقط كما هو موضّح أعلاه — وليس بياناتك المالية أبداً |
 | الفوترة في Google Play | شراء الاشتراك واستعادته. | تفاصيل الشراء، وتتولاها Google Play |
 | الإشعارات | تذكيرات المعاملات المتكررة والتذكير اليومي الاختياري. لا يُطلب إلا عند تفعيلك تذكيراً. | لا |
 | المنبّهات الدقيقة، والتشغيل عند الإقلاع، والاهتزاز | إظهار التذكيرات في موعدها، وإبقاؤها مجدولة بعد إعادة تشغيل الهاتف. | لا |

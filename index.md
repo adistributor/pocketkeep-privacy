@@ -79,7 +79,7 @@ Your PIN is stored only as a salted, one-way hash on your device. The recovery c
 
 - **On your device:** uninstall PocketKeep or clear its storage in Android settings. This removes all data the app stores on the device.
 - **Android backup:** if Android's backup is on, a copy may remain in your Google account until you delete it there (Google Drive → Backups).
-- **Subscription data:** the RevenueCat record is tied only to an anonymous ID. You can ask us to request its deletion by emailing us.
+- **Subscription data:** the RevenueCat record is tied only to an anonymous ID. To request its deletion, email support.pocketkeep@gmail.com with the subject "Delete my data" and include your Google Play order number (it starts with GPA. and appears in your purchase receipt email). We will have the record deleted within 30 days and confirm by email. Google Play keeps its own purchase records under Google's policies; we cannot delete those. If you never purchased a subscription, the record contains no information that can be linked to you.
 
 ## Children
 
@@ -109,7 +109,7 @@ Questions about privacy, or anything else:
 
 لا إعلانات في PocketKeep، ولا تحليلات استخدام، ولا معرّف إعلانات.
 
-يتصل التطبيق بالإنترنت لأغراض محدودة، لا يتضمن أيٌّ منها بياناتك المالية:
+يتصل التطبيق بالإنترنت لغرضين محدودين، لا يتضمن أيٌّ منها بياناتك المالية:
 
 - التحقق من اشتراكك وإدارته (Google Play وRevenueCat)؛
 - عرض نافذة "قيّم التطبيق" من Google Play (مرة واحدة على الأكثر).
@@ -180,8 +180,8 @@ Questions about privacy, or anything else:
 
 - **على جهازك:** ألغِ تثبيت PocketKeep أو امسح بيانات التخزين الخاصة به من إعدادات أندرويد. يحذف ذلك كل البيانات التي يحفظها التطبيق على الجهاز.
 - **النسخ الاحتياطي في أندرويد:** إن كانت مفعّلة، فقد تبقى نسخة في حسابك على Google حتى تحذفها من هناك (Google Drive ← النسخ الاحتياطية).
-- **بيانات الاشتراك:** سجلّ RevenueCat مرتبط بمعرّف مجهول الهوية فقط. يمكنك مراسلتنا لنطلب حذفه.
-
+- **بيانات الاشتراك:** سجلّ RevenueCat مرتبط بمعرّف مجهول الهوية فقط. لطلب حذفه، راسلنا على support.pocketkeep@gmail.com بعنوان "Delete my data" مع رقم طلب Google Play (يبدأ بـ GPA. ويظهر في رسالة إيصال الشراء). سنحذف السجل خلال 30 يوماً ونؤكد لك ذلك بالبريد. تحتفظ Google Play بسجلات الشراء الخاصة بها وفق سياساتها، ولا يمكننا حذفها. وإن لم تشترِ اشتراكاً قط، فلا يحتوي السجل على أي معلومة يمكن ربطها بك.
+- 
 ## الأطفال
 
 PocketKeep ليس موجّهاً للأطفال دون سن الثالثة عشرة، ولا نجمع عن علم أي معلومات شخصية من الأطفال.
